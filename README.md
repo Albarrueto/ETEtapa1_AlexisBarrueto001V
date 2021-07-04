@@ -1,21 +1,21 @@
 # ETEtapa1_AlexisBarrueto001V
  
  
- credenciales base de datos
+CREDENCIALES BASE DE DATOS
  
  user: c##nota4
  pass: nota4
  
  
  
-credenciales super user
+CREDENCIALES SUPER USER DJANGO
 
 user: admin
 pass: admin123
 
 
 
-paths 
+PATHS
 
 --VER PROVEEDORES--
 http://127.0.0.1:8000/verproveedor
